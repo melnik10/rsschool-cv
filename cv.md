@@ -10,4 +10,7 @@ Melnikov Vladislav
 * vaMuller (Telegram)
 * melnik10#1735 (Discrod)
 
+### 2. About myself:
+My firstname is Vladislav. I live in Kaliningrad. I want to learn frontend in **RSSchool**!
+
 
