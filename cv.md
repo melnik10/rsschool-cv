@@ -64,4 +64,6 @@ export const ConfirmForm = (props) => {
 6. [Путь самурая 1.0 - 2.0](https://www.youtube.com/watch?v=gb7gMluAeao&list=PLcvhF2Wqh7DNVy1OCUpG3i5lyxyBWhGZ8)
 7. TypeScript, Redux-toolkit, MobX (youtube, documentation)
 
-
+### 7. Language
+1. Russian - native
+2. English - A1+
