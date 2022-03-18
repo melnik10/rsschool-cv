@@ -1,1 +1,1 @@
-# rsschool-cv
+https://melnik10.github.io/rsschool-cv/cv
