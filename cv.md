@@ -55,4 +55,13 @@ export const ConfirmForm = (props) => {
 2. [Paint-Online (Websocket) (React/NodeJS)](https://melnik10.github.io/paint-websocket/#/)
 3. [Cloud-space (React/NodeJS)](https://cloud-mern.herokuapp.com/login)
 
+### 6.Education:
+1. Radio engineer (2019)
+2. QT/C++ (2017-2020)
+3. CS50 (2021)
+4. HTML, CSS, GIT on YouTube
+5. JS - [https://learn.javascript.ru](https://learn.javascript.ru)
+6. [Путь самурая 1.0 - 2.0](https://www.youtube.com/watch?v=gb7gMluAeao&list=PLcvhF2Wqh7DNVy1OCUpG3i5lyxyBWhGZ8)
+7. TypeScript, Redux-toolkit, MobX (youtube, documentation)
+
 
